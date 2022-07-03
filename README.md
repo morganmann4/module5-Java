@@ -1,7 +1,5 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
-
 I wrote a simple rock paper scissors game in java. The purpose for writing this program was to learn java and apply the knowledge I have learned by building a simple program.
 
 
@@ -20,7 +18,5 @@ The libraries I used were random and scanner in java.
 * [Programiz](https://www.programiz.com/java-programming)
 
 # Future Work
-
-{Make a list of things that you need to fix, improve, and add in the future.}
 * Make the game two player
 * Have the game be more interactive
